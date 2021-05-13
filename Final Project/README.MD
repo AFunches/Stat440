@@ -1,7 +1,8 @@
-# Stat 440 FInal Project - Analyzing the Effect of Mayoral Changes and Locality on Chicago Crime Rates
+# Stat 440 Final Project - Analyzing the Effect of Mayoral Changes and Locality on Chicago Crime Rates
 
 **Description**<br/>
 For the project we are using two datasets that contain observations representative of crime incidents in the City of Chicago in the years of 2010 and 2018. These datasets were extracted by the city of Chicago from the Chicago Police Department’s CLEAR system or the Citizen Law Enforcement Analysis and Reporting system of Chicago and uploaded to the Chicago Data Portal. <br/>
+
 Chicago Crime Data 2010: https://data.cityofchicago.org/Public-Safety/Crimes-2010/q4de-h6yq <br/>
 Chicago Crime Data 2018: https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy <br/>
 
